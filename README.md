@@ -1,4 +1,9 @@
-This is a Implementation of paper 'High-Resolution Depth Maps Based on TOF-Stereo Fusion'
+This is a Implementation of paper 'High-Resolution Depth Maps Based on TOF-Stereo Fusion' with novel sparse depth interpolation method.
+
+## Pipeline
+
+<img src="./fusion/data/procedure.png" width="800px" />
+
 
 ## STRUCTURE
 ``` text
