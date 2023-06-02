@@ -1,0 +1,7 @@
+baseline:160
+focal:3740
+doff:0
+ratio:1000
+scale:0.1
+threshold:0.5
+step:10
